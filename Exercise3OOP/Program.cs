@@ -6,7 +6,7 @@ namespace Exercise3OOP
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello World!");
+            var person = new Person();
         }
     }
 }
